@@ -14,7 +14,7 @@ Feel free to check these codes out.
 | abc 321 | A | Like Checker | [Question](https://atcoder.jp/contests/abc321/tasks/abc321_a) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/blob/main/abc%20321/A_321_like_Checker.cpp)
 | abc 330 | A | Counting passes | [Question](https://atcoder.jp/contests/abc330/tasks/abc330_a)| [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/blob/main/abc%20330/A_Counting_Passes.cpp)
 | abc 331 |  A | Tomorrow | [Question](https://atcoder.jp/contests/abc331/tasks/abc331_a) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/blob/main/abc%20331/A_Tomorrow.cpp)
-
+| abc 331 | B | Buy One Carton of Milk | [Question](https://atcoder.jp/contests/abc331/tasks/abc331_b) |  [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/blob/main/abc%20331/B_Buy_One_Carton_of_Milk.cpp)
 </div>
 
 ## 🚀 About Me
