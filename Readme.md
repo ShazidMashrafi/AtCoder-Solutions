@@ -2,7 +2,7 @@
 
 This repository contains my solutions of AtCoder problems. They are in C++ language.  
 
-#### If this repository helped you out, please consider giving it a :star:.
+#### If this repository helped you out, please consider giving it a :star:
 
 <div align="center">
 
