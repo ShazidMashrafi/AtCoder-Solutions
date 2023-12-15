@@ -22,5 +22,4 @@ This repository contains my solutions of AtCoder problems. They are in C++ langu
 
 I am Shazid. I am currently studying Computer Science and Engineering. 
 I am trying to work my way up in the programming world.  
-Here is my [Github account](https://github.com/ShazidMashrafi) and [AtCoder account](https://atcoder.jp/users/shazidmashrafi).  
-Want to know more about me? Visit [My website](https://shazidmashrafi.com).
+Visit my [Website](https://shazidmashrafi.com) and [AtCoder](https://atcoder.jp/users/shazidmashrafi) account.
