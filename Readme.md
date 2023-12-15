@@ -1,7 +1,8 @@
 # AtCoder Solutions
 
 This repository contains my source codes of AtCoder problems. They are in C++ language.  
-Feel free to check these codes out.
+
+#### If this repository helped you out, please consider giving it a :star:.
 
 <div align="center">
 
@@ -19,6 +20,7 @@ Feel free to check these codes out.
 
 ## 🚀 About Me
 
-I am Shazid, studying Computer Science and Engineering. I am trying to work my way up in the programming world.
-Here is my [Github account](https://github.com/ShazidMashrafi) & my [AtCoder account ](https://atcoder.jp/users/shazidmashrafi).  
+I am Shazid. I am currently studying Computer Science and Engineering. 
+I am trying to work my way up in the programming world.  
+Here is my [Github account](https://github.com/ShazidMashrafi) and [AtCoder account](https://atcoder.jp/users/shazidmashrafi).  
 Want to know more about me? Visit [My website](https://shazidmashrafi.com).
