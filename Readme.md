@@ -17,6 +17,7 @@ This repository contains my solutions of AtCoder problems. They are in C++ langu
 | 5 | abc331 | A | Tomorrow | [Question](https://atcoder.jp/contests/abc331/tasks/abc331_a) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/abc331%20A%20-%20Tomorrow)
 | 6 | abc331 | B | Buy One Carton of Milk | [Question](https://atcoder.jp/contests/abc331/tasks/abc331_b) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/abc331%20B%20-%20Buy%20One%20Carton%20of%20Milk)
 | 7 | dp | A | Frog 1 | [Question](https://atcoder.jp/contests/dp/tasks/dp_a) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/dp%20A%20-%20Frog%201)
+| 8 | dp | B | Frog 2 | [Question](https://atcoder.jp/contests/dp/tasks/dp_b) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/dp%20B%20-%20Frog%202)
 
 
 
