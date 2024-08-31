@@ -1,2 +1,6 @@
-Test/
-Generator.py
+*
+!Codes/
+!Codes/**/*
+!Assets/
+!Assets/**/*
+!Readme.md
