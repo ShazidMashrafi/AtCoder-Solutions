@@ -23,11 +23,12 @@ This repository contains my solutions of AtCoder problems. They are in C++ langu
 | 11 | abc331 | B | Buy One Carton of Milk | [Question](https://atcoder.jp/contests/abc331/tasks/abc331_b) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/abc331%20B%20-%20Buy%20One%20Carton%20of%20Milk)
 | 12 | abc339 | C | Perfect Bus | [Question](https://atcoder.jp/contests/abc339/tasks/abc339_c) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/abc339%20C%20-%20Perfect%20Bus)
 | 13 | abc353 | A | Buildings | [Question](https://atcoder.jp/contests/abc353/tasks/abc353_a) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/abc353%20A%20-%20Buildings)
-| 14 | arc178 | A | Good Permutation 2 | [Question](https://atcoder.jp/contests/arc178/tasks/arc178_a) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/arc178%20A%20-%20Good%20Permutation%202)
-| 15 | dp | A | Frog 1 | [Question](https://atcoder.jp/contests/dp/tasks/dp_a) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/dp%20A%20-%20Frog%201)
-| 16 | dp | B | Frog 2 | [Question](https://atcoder.jp/contests/dp/tasks/dp_b) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/dp%20B%20-%20Frog%202)
-| 17 | dp | D | Knapsack 1 | [Question](https://atcoder.jp/contests/dp/tasks/dp_d) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/dp%20D%20-%20Knapsack%201)
-| 18 | dp | E | Knapsack 2 | [Question](https://atcoder.jp/contests/dp/tasks/dp_e) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/dp%20E%20-%20Knapsack%202)
+| 14 | abc372 | B | 3^A | [Question](https://atcoder.jp/contests/abc372/tasks/abc372_b) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/abc372%20B%20-%203^A)
+| 15 | arc178 | A | Good Permutation 2 | [Question](https://atcoder.jp/contests/arc178/tasks/arc178_a) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/arc178%20A%20-%20Good%20Permutation%202)
+| 16 | dp | A | Frog 1 | [Question](https://atcoder.jp/contests/dp/tasks/dp_a) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/dp%20A%20-%20Frog%201)
+| 17 | dp | B | Frog 2 | [Question](https://atcoder.jp/contests/dp/tasks/dp_b) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/dp%20B%20-%20Frog%202)
+| 18 | dp | D | Knapsack 1 | [Question](https://atcoder.jp/contests/dp/tasks/dp_d) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/dp%20D%20-%20Knapsack%201)
+| 19 | dp | E | Knapsack 2 | [Question](https://atcoder.jp/contests/dp/tasks/dp_e) | [Solution](https://github.com/ShazidMashrafi/AtCoder-Solutions/tree/main/Codes/dp%20E%20-%20Knapsack%202)
 
 
 
